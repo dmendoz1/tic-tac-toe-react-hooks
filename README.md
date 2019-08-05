@@ -1,3 +1,11 @@
+## Demo found here: https://dmendoz1.github.io/tic-tac-toe-react-hooks/
+
+Tic Tac Toe game that lets you backtrack moves. Made with HTML5, CSS3, and Javascript (ReactJS)
+
+To run locally, clone this repo and once on terminal (make sure to be on the correct directory), run :
+
+### `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
