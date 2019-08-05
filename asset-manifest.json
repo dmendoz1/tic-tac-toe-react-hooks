@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-react-hooks/static/css/main.655f929b.chunk.css",
+    "main.js": "/tic-tac-toe-react-hooks/static/js/main.310308a8.chunk.js",
+    "main.js.map": "/tic-tac-toe-react-hooks/static/js/main.310308a8.chunk.js.map",
+    "runtime~main.js": "/tic-tac-toe-react-hooks/static/js/runtime~main.06165a0d.js",
+    "runtime~main.js.map": "/tic-tac-toe-react-hooks/static/js/runtime~main.06165a0d.js.map",
+    "static/js/2.1b3a0643.chunk.js": "/tic-tac-toe-react-hooks/static/js/2.1b3a0643.chunk.js",
+    "static/js/2.1b3a0643.chunk.js.map": "/tic-tac-toe-react-hooks/static/js/2.1b3a0643.chunk.js.map",
+    "index.html": "/tic-tac-toe-react-hooks/index.html",
+    "precache-manifest.682ba1f99a9a6b218ffd81a564d4715a.js": "/tic-tac-toe-react-hooks/precache-manifest.682ba1f99a9a6b218ffd81a564d4715a.js",
+    "service-worker.js": "/tic-tac-toe-react-hooks/service-worker.js",
+    "static/css/main.655f929b.chunk.css.map": "/tic-tac-toe-react-hooks/static/css/main.655f929b.chunk.css.map"
+  }
+}
